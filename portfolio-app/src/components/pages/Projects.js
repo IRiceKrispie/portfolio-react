@@ -10,8 +10,8 @@ export default function Projects() {
         <div class="card_image"> 
           <a href="https://janvierb1.github.io/The-Movie-Library/"><img src="https://i.redd.it/b3esnz5ra34y.jpg" alt="Card 1"/></a> 
         </div>
-        <div class="card_title title-white">
-          <p>Card Title</p>
+        <div class="card_title title-black">
+          <p>Event Handler</p>
         </div>
       </div>
     </div>
