@@ -9,5 +9,6 @@
 * GitHub: https://github.com/IRiceKrispie/portfolio-react
 
 ## Screenshots
-![home-page]
-![projects-page]
+![home](https://user-images.githubusercontent.com/41313706/218046021-e2a3c70a-505f-4802-a7d7-5b324a845169.png)
+![projects](https://user-images.githubusercontent.com/41313706/218046108-f41e2c42-47e8-4062-95cf-d3c2bb793ba0.png)
+
