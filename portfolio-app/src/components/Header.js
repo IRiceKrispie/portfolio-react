@@ -13,7 +13,7 @@ const styles = {
 };
 function Header() {
     return(
-    <header style={styles.headerStyle}>This is the Header</header>
+    <header style={styles.headerStyle}>Joseph Sandoval Houston, TX</header>
     );
     
 }

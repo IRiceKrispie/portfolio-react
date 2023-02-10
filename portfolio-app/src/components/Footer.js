@@ -15,7 +15,7 @@ const styles = {
 
 function Footer() {
     return(
-    <footer style={styles.footerStyle}>This is the footer</footer>
+    <footer style={styles.footerStyle}>Work in progress portfolio using the React framework</footer>
     );
     
 }
